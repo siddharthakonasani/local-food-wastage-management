@@ -87,11 +87,14 @@ streamlit run app.py
 ---
 4. Open in browser
 Streamlit will provide a local URL, usually http://localhost:8501.
+---
 
 📧 Contact
 
 For questions or suggestions:
 
 Name: Siddhartha Ram Konasani
+---
 Mail: siddharthakonasani.77@gmail.com
+---
 LinkedIn: https://www.linkedin.com/in/siddhartha-ram-konasani/
